@@ -1,6 +1,6 @@
 # Privacy Policy for Fitness Assistant
 
-_Last updated: [Month DD, 2026]_
+_Last updated: [june 12, 2026]_
 
 Fitness Assistant ("the app") is a personal, non-commercial project developed by an individual for personal use and limited testing. This policy explains what data the app handles and how.
 
@@ -42,4 +42,4 @@ Data stored on your device is protected by your device's own security measures. 
 This policy may be updated as the app evolves. The "Last updated" date above reflects the most recent change.
 
 ## Contact
-For questions about this policy, contact: **[your contact email]**
+For questions about this policy, contact: **jesus@garza-lopez.com**
